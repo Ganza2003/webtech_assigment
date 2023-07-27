@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 70;
+}
+
+a{
+
+    text-decoration: none;
+    font-size: larger;
+    color: rgba(52, 24, 154, 0.532);
+}
+body{
+    background-color: rgba(81, 73, 249, 0.534);
+}
